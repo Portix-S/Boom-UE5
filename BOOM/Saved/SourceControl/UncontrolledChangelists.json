@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vitor/Documents/GitHub/Boom-UE5/BOOM/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/vitor/Documents/GitHub/Boom-UE5/BOOM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/EE/GLK7MO59MYI9XH4FCJ4RPG.uasset",
+				"C:/Users/vitor/Documents/GitHub/Boom-UE5/BOOM/Content/FirstPerson/Blueprints/Enemy.uasset",
+				"C:/Users/vitor/Documents/GitHub/Boom-UE5/BOOM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/R6/JJ7R2DZ0TZ0PWKN521D3RM.uasset",
+				"C:/Users/vitor/Documents/GitHub/Boom-UE5/BOOM/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
+			]
+		}
+	]
+}
